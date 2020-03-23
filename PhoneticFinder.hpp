@@ -1,0 +1,1 @@
+string find(string test, string word);
