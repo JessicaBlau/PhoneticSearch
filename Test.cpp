@@ -1,3 +1,9 @@
+/**
+ * AUTHORS: Jessica Fliker
+ * 
+ * Date: 2020-03
+ */
+
 #include "doctest.h"
 #include "PhoneticFinder.hpp"
 using namespace phonetic;
