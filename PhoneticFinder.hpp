@@ -1,1 +1,7 @@
-string find(string test, string word);
+#include <iostream>
+
+using namespace std;
+
+namespace phonetic{
+    string find(string text, string word) ;
+}

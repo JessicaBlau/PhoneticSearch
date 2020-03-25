@@ -1,8 +1,7 @@
-# include <string>
-# include <stdexcept>
+#include <iostream>
+#include <stdexcept>
+#include "PhoneticFinder.hpp"
 
-using namespace std;
-
-namespace phonetic{
-    string find(string test, string word);
+string phonetic::find(string text, string word) {
+    return "happy";
 }
