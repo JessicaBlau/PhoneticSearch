@@ -1,0 +1,4 @@
+C:\Users\jblau\AppData\Local\JetBrains\CLion2020.1\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/jblau/CLionProjects/PhoneticSearch/PhoneticSerach-b
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/jblau/CLionProjects/PhoneticSearch/PhoneticSerach-b/cmake-build-debug

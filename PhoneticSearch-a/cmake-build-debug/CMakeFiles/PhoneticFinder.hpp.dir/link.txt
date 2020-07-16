@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/PhoneticFinder.hpp.dir/PhoneticFinder.cpp.o CMakeFiles/PhoneticFinder.hpp.dir/Demo.cpp.o  -o PhoneticFinder.hpp.exe -Wl,--out-implib,libPhoneticFinder.hpp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

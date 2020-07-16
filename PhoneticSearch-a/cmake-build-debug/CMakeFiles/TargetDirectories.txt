@@ -1,0 +1,3 @@
+/cygdrive/c/Users/jblau/CLionProjects/cppAllProjects/PhoneticSearch/PhoneticSearch-a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/jblau/CLionProjects/cppAllProjects/PhoneticSearch/PhoneticSearch-a/cmake-build-debug/CMakeFiles/PhoneticFinder.hpp.dir
+/cygdrive/c/Users/jblau/CLionProjects/cppAllProjects/PhoneticSearch/PhoneticSearch-a/cmake-build-debug/CMakeFiles/edit_cache.dir
